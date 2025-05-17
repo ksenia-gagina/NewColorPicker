@@ -9,9 +9,9 @@ import SwiftUI
 
 @main
 struct NewColorPickerApp: App {
-    var body: some Scene {
-        WindowGroup {
-         //
-        }
+  var body: some Scene {
+    WindowGroup {
+      MainScreenView()
     }
+  }
 }
